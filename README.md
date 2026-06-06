@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm AbdelRhman 👋
 
-<!--
-**AbdelRhman588/AbdelRhman588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 💻 **Computer Engineering Student** passionate about Full-Stack Web Development and Network Systems.
+- 🚀 Experienced in crafting clean, responsive UIs and robust backend architectures.
+- 🌐 Interested in system simulation and advanced computing concepts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Front-End** | HTML5, CSS3 (Flexbox/Grid), JavaScript, Bootstrap |
+| **Back-End** | Node.js / Python / PHP *(اكتب لغتك الأساسية هنا)* |
+| **Databases** | MySQL / MongoDB *(اكتب قواعد البيانات اللي بتشتغل بيها)* |
+| **Tools & Engineering** | Git, GitHub, Linux, Cisco Packet Tracer |
+
+---
+
+### 🌐 Connect with me: | [📧 Email](abdlerhmanawad466@gmail.com)
+
