@@ -1,9 +1,9 @@
 # Hi there, I'm AbdelRhman 👋
 
 ### 🎓 About Me
-- 💻 **Computer Engineering Student** passionate about Full-Stack Web Development and Network Systems.
-- 🚀 Experienced in crafting clean, responsive UIs and robust backend architectures.
-- 🌐 Interested in system simulation and advanced computing concepts.
+- 💻 **Computer Engineering Student** currently expanding my skills into Full-Stack Web Development.
+- 🎨 Focused on crafting clean, responsive user interfaces using modern web standards.
+- 🌐 Interested in computer networking, subnetting, and system simulation.
 
 ---
 
@@ -11,12 +11,12 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Front-End** | HTML5, CSS3 (Flexbox/Grid), JavaScript, Bootstrap |
-| **Back-End** | Node.js / Python / PHP *(اكتب لغتك الأساسية هنا)* |
-| **Databases** | MySQL / MongoDB *(اكتب قواعد البيانات اللي بتشتغل بيها)* |
-| **Tools & Engineering** | Git, GitHub, Linux, Cisco Packet Tracer |
+| **Front-End** | HTML5, CSS3 (Flexbox/Grid), JavaScript |
+| **Academic & Engineering** | C (Programming), Cisco Packet Tracer, Linux |
+| **Tools** | Git, GitHub |
 
 ---
 
-### 🌐 Connect with me: | [📧 Email](abdlerhmanawad466@gmail.com)
-
+### 🌐 Connect with me:
+[📧 Email](abdelrhmanawad466@gmail.com)
+[github]((https://github.com/AbdelRhman588)
