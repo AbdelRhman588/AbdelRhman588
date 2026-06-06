@@ -18,5 +18,4 @@
 ---
 
 ### 🌐 Connect with me:
-[📧 Email](abdelrhmanawad466@gmail.com)
 [github]((https://github.com/AbdelRhman588)
