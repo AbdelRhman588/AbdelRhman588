@@ -11,7 +11,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Front-End** | HTML5, CSS3 (Flexbox/Grid), JavaScript |
+| **Front-End** | HTML5, CSS3 (Flexbox/Grid), JavaScript , Next.Js |
 | **Academic & Engineering** | C (Programming), Cisco Packet Tracer, Linux |
 | **Tools** | Git, GitHub |
 
